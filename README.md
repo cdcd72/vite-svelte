@@ -69,4 +69,3 @@
 
 - [Sass](https://github.com/cdcd72/vite-svelte/tree/pure-sass)
 - [Tailwind CSS](https://github.com/cdcd72/vite-svelte/tree/tailwindcss)
-- [Styled-components](https://github.com/cdcd72/vite-svelte/tree/styled-components)
