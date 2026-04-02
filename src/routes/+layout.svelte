@@ -4,7 +4,7 @@
     import favicon from '$lib/assets/favicon.ico';
     import { APP_CONFIG } from '$lib/constants/app';
 
-    import './layout.css';
+    import './layout.scss';
 
     let { children } = $props();
 
