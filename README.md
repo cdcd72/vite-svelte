@@ -18,52 +18,52 @@
 
 2. Install pnpm.
 
-   Node.js version > `v16.13`
+    Node.js version > `v16.13`
 
-   ```bash
-   corepack enable pnpm
-   ```
+    ```bash
+    corepack enable pnpm
+    ```
 
-   Node.js version < `v16.13`
+    Node.js version < `v16.13`
 
-   ```bash
-   npm install pnpm -g
-   ```
+    ```bash
+    npm install pnpm -g
+    ```
 
 3. Install dependencies.
 
-   ```bash
-   pnpm install
-   ```
+    ```bash
+    pnpm install
+    ```
 
 4. Run app in dev env.
 
-   ```bash
-   pnpm run dev
-   ```
+    ```bash
+    pnpm run dev
+    ```
 
 ## How to build and preview
 
 1. Build app.
 
-   ```bash
-   pnpm run build
-   ```
+    ```bash
+    pnpm run build
+    ```
 
 2. Preview your prod env.
 
-   ```bash
-   pnpm run preview
-   ```
+    ```bash
+    pnpm run preview
+    ```
 
 ## How to lint and format
 
 1. Check types and lint your app.
 
-   ```bash
-   pnpm run check
-   pnpm run lint
-   ```
+    ```bash
+    pnpm run check
+    pnpm run lint
+    ```
 
 ## Other Styling demo
 
